@@ -36,6 +36,10 @@ export default function Page() {
             {/* <br /> */}
             <div className="h-2"></div>
             I also infrequently write at <Link href="https://rosikand.substack.com/">Rohan's Random Walks</Link>.
+
+            <br />
+            <br /> 
+            <em>Webpage content under construction... will be updated soon.</em>
           </p>
       
         </div>

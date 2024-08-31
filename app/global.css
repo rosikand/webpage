@@ -5,12 +5,19 @@ body {
   font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
   font-size: 0.8em;
   background-color: hsl(0, 0%, 100%);
-  margin-left: 25em;
+  /* margin-left: 25em;
   margin-top: 5em;
   margin-bottom: 3em;
   padding-left: 3em;
   padding-right: 3em;
-  padding-top: 1em;
+  padding-top: 1em; */
+  /* Wider */
+  /* width: 70%;  */
+  /* margin-left: auto;  */
+  /* margin-right: auto; */
+  /* border: 3px solid #010000;  */
+  /* border-radius: 8px;  */
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
 }
 
 a {
@@ -51,8 +58,9 @@ html {
   min-width: 360px;
   /* background-color: #ffffff; */
   /* alt: https://t4.ftcdn.net/jpg/03/47/76/97/360_F_347769773_2uLpaQOu50lM371CLoODQaLxhPl9Wb1P.jpg */
-  background-image: url('https://a16z.com/wp-content/themes/a16z/assets/images/home-topo-pattern.png');
-  background-color: rgba(255, 255, 255, 0.8); /* White background with 90% opacity */
+  /* https://a16z.com/wp-content/themes/a16z/assets/images/home-topo-pattern.png */
+  /* background-image: url('/assets/krea-golf.png'); */
+  /* background-color: rgba(255, 255, 255, 0.1); White background with 90% opacity */
   background-blend-mode: overlay; /* Blend the image with the background color */
   background-size: cover;
   background-position: center;
