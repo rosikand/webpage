@@ -22,7 +22,7 @@ export default function Page() {
           </p>
           
           <p>
-            I am interested in engineering large-scale systems for applied machine learning to solve hard technical problems that have real-world impact, pushing humanity up the <a href="https://en.wikipedia.org/wiki/Kardashev_scale">Kardashev scale</a>. 
+            I am interested in engineering large-scale systems for applied machine learning to solve hard technical problems that have real-world impact. In the past, I've conducted research in self-supervised learning at <a href="https://ai.stanford.edu/">SAIL</a> and engineered segmentation models at <a href="https://www.insitro.com/">inistro</a>. 
           </p>
 
           <p>
@@ -36,6 +36,10 @@ export default function Page() {
             {/* <br /> */}
             <div className="h-2"></div>
             I also infrequently write at <Link href="https://rosikand.substack.com/">Rohan's Random Walks</Link>.
+
+            <br />
+            <br /> 
+            <em>Webpage content under construction... will be updated soon.</em>
           </p>
       
         </div>
