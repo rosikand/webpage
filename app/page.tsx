@@ -22,13 +22,13 @@ export default function Page() {
           </p>
           
           <p>
-            I am interested in engineering large-scale systems for applied machine learning to solve hard technical problems that have real-world impact, pushing humanity up the <a href="https://en.wikipedia.org/wiki/Kardashev_scale">Kardashev scale</a>. 
+            I am interested in engineering large-scale systems for applied machine learning to solve hard technical problems that have real-world impact. In the past, I've conducted research in self-supervised learning at <a href="https://ai.stanford.edu/">SAIL</a>, engineered segmentation models at <a href="https://www.insitro.com/">insitro</a>, and built many ML <Link href="/portfolio">projects</Link>.  
           </p>
 
           <p>
             {/* <br /> */}
             <div className="h-2"></div>
-            In my free time, I play <Link href="/golf">golf</Link> and <Link href="/blog">think</Link>, a lot. 
+            In my free time, I play <Link href="/golf">golf</Link> and <Link href="/blog">think</Link>. 
             This webpage is a collection of my thoughts, projects, and experiences. 
           </p>
 
@@ -36,12 +36,16 @@ export default function Page() {
             {/* <br /> */}
             <div className="h-2"></div>
             I also infrequently write at <Link href="https://rosikand.substack.com/">Rohan's Random Walks</Link>.
+
+            <br />
+            <br /> 
+            <em>Webpage content under construction... will be updated soon.</em>
           </p>
       
         </div>
         <div className="md:w-1/3 mt-4 md:mt-0">
           <img
-            src="/assets/baby.jpg"
+            src="/assets/prof1.jpeg"
             alt="Profile picture"
             className="bordered-image w-full max-w-[250px] ml-auto"
           />
@@ -49,10 +53,10 @@ export default function Page() {
         
       </div>
       <div className="my-1">
-    <hr className="my-4 opacity-10" />
-    <h3 className="text-xl font-semibold mb-2">Recent Thoughts</h3>
-    <div className="h-3"></div>
-    <BlogPosts />
+    {/* <hr className="my-4 opacity-10" /> */}
+    {/* <h3 className="text-xl font-semibold mb-2">Recent Thoughts</h3> */}
+    {/* <div className="h-3"></div> */}
+    {/* <BlogPosts /> */}
     {/* <hr className="my-2 opacity-10" /> */}
   
       </div>
